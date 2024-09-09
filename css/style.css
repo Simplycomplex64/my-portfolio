@@ -379,10 +379,6 @@ textarea {
   text-align: center;
 }
 
-.about {
-
-}
-
 .about__content {
   display: grid;
   grid-template-columns: 1fr 1fr;
